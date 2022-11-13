@@ -1,0 +1,22 @@
+body{
+    background-color:beige;
+  }
+  #about{
+    background-color: beige;
+  }
+ .main{
+    margin-bottom: 22px;
+ }
+ .card{
+    background-color: bisque;
+ }
+ h2:hover{
+    color: #fd4766;
+    transform: scale(1.2);
+ }
+
+
+ .card:hover {
+    transform: scale(1.1);
+    /* background-color:rgb(253, 214, 166); */
+  }
